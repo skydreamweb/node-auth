@@ -1,0 +1,30 @@
+{
+  "name": "node-auth",
+  "version": "1.0.0",
+  "description": "Node Auth with JWT",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skydreamweb/node-auth.git"
+  },
+  "keywords": [
+    "node",
+    "auth",
+    "jwt"
+  ],
+  "author": "Dalibor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skydreamweb/node-auth/issues"
+  },
+  "homepage": "https://github.com/skydreamweb/node-auth#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
